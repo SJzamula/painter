@@ -1,9 +1,8 @@
 import 'package:device_apps/device_apps.dart';
 import 'package:flutter/material.dart';
-import 'package:oop_lab22/home.dart';
-import 'package:oop_lab22/static_shapes.dart';
 
-import 'drawing_boards/drawing_board_line.dart';
+import 'home.dart';
+import 'static_shapes.dart';
 
 class WelcomePage extends StatefulWidget {
   WelcomePage({Key? key, required this.title}) : super(key: key);

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:oop_lab22/person.dart';
 import 'home.dart';
+import 'person.dart';
 
 void main() {
   runApp(const MyApp());
